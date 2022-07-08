@@ -1,0 +1,1 @@
+print("fichero1:", __name__)
